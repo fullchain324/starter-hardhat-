@@ -1,0 +1,6 @@
+{
+    "editor.suggest.shareSuggestSelections": false,
+    "files.watcherInclude": [
+        "\"javascript.validate.enable\": false"
+    ]
+}
